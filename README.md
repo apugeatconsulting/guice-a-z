@@ -1,2 +1,2 @@
-# guice-a-z
-Guice A-Z
+# Guice A-Z
+
